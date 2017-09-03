@@ -31,6 +31,7 @@ public class Dish {
         return type;
     }
 
+
     public enum Type { MEAT, FISH, OTHER }
 
     @Override
